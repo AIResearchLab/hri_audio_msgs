@@ -1,0 +1,10 @@
+# Goal
+std_msgs/Header header
+string command
+---
+# Result
+std_msgs/Header header
+string stt_text
+---
+# Feedback
+std_msgs/Header header
