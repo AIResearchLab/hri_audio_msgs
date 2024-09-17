@@ -4,7 +4,6 @@ string tts_text
 ---
 # Result
 std_msgs/Header header
-string command
 ---
 # Feedback
 std_msgs/Header header
